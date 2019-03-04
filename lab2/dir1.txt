@@ -1,0 +1,7 @@
+total 252
+drwxrwxr-x. 2 lab7 lab7     84 Mar  4 13:22 .
+drwx------. 7 lab7 lab7    260 Mar  4 13:12 ..
+-rw-rw-r--. 1 lab7 lab7      0 Mar  4 13:22 dir1.txt
+-rw-rw-r--. 1 lab7 lab7 247512 Mar  4 13:21 make-base64.txt
+-rw-rw-r--. 1 lab7 lab7     17 Mar  4 13:14 test-base64.txt
+-rw-rw-r--. 1 lab7 lab7     11 Mar  4 13:14 test.txt
